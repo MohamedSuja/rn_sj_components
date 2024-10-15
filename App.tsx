@@ -1,6 +1,6 @@
 import { View, Text, SafeAreaView } from "react-native";
 import React from "react";
-import { useUpdateEffect } from "rn_sj_components";
+import { useUpdateEffect } from "./src";
 
 const App = () => {
   useUpdateEffect(() => {

@@ -7110,7 +7110,7 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-rn_sj_components@^1.0.3:
+"rn_sj_components@git@github.com:MohamedSuja/rn_sj_components.git":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/rn_sj_components/-/rn_sj_components-1.0.3.tgz#8125d17985abd0a4d543c89f05c95c5b30aae9ec"
   integrity sha512-iRd+zImWs1ZNjBcgQixzWQ4T6oFrh1ZdxiB5Omj3nLp4gqaBu74ePANJld5Gsyxo0xxlDDkNQIhqhl94Key5DA==
