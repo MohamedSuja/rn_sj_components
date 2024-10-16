@@ -1,6 +1,7 @@
 import { View, Text, SafeAreaView } from "react-native";
 import React from "react";
 import { useUpdateEffect } from "rn_sj_components";
+import { AppPrimaryButton } from "./src";
 
 const App = () => {
   useUpdateEffect(() => {
@@ -10,6 +11,7 @@ const App = () => {
   return (
     <SafeAreaView>
       <Text>App</Text>
+      <AppPrimaryButton title="jsjd" />
     </SafeAreaView>
   );
 };
