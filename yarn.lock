@@ -7127,10 +7127,13 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-rn_sj_components@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/rn_sj_components/-/rn_sj_components-1.0.5.tgz#10aa840c915191f0c23eda63054c441b18886eb9"
-  integrity sha512-3sOcLy8XUVxte/Nq+mCjBRtkX8hyZOszMJVTlCakjV8rcoqT38y0Lcii82kvLc+3bFabRJYMfCCaHR0GopnUtg==
+rn_sj_components@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/rn_sj_components/-/rn_sj_components-1.0.6.tgz#dd6a7f4e7e57a455985efa59efd214ff90a0a692"
+  integrity sha512-d9k/8Uc+I6NTBrqcTFhDUUTBX+yWWYjPlURDD58JkzIIqYLHnN+56oZ1CfnadXwIzgkMhbUErBnbyMN1IjgFLg==
+  dependencies:
+    react-native-responsive-fontsize "^0.5.1"
+    react-native-responsive-screen "^1.4.2"
 
 run-parallel@^1.1.9:
   version "1.2.0"
