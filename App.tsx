@@ -1,7 +1,7 @@
 import { View, Text, SafeAreaView } from "react-native";
 import React from "react";
 import { useUpdateEffect } from "rn_sj_components";
-import AppPrimaryButton from "rn_sj_components/src/components/buttons/AppPrimaryButton";
+import { AppPrimaryButton } from "rn_sj_components";
 
 const App = () => {
   useUpdateEffect(() => {
